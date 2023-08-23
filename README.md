@@ -17,7 +17,9 @@ pip install -r requirements.txt
 ## Chave da API
 Você também precisará de uma chave de API da OpenAI para usar o ChatGPT. Essa chave deve ser definida como uma variável de ambiente com o nome SENHA_OPEN_AI.
 A chave é feita no site da OpenAi: https://platform.openai.com/overview 
-### Caminho: faça o login > clique no ícone do canto superior esquerdo, onde está o seu perfil > View API Keys > clique no botão "create a secret key" (salve o conteúdo em algum documento txt, para que você não o perca)
+```Caminho:
+faça o login > clique no ícone do canto superior esquerdo, onde está o seu perfil > View API Keys > clique no botão "create a secret key" (salve o conteúdo em algum documento txt, para que você não o perca)
+```
 
 ## Funcionalidades
 
