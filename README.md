@@ -4,7 +4,8 @@ Estudo da API da OpenAI para criação de um Chatbot
 # Chat Teste com ChatGPT Turbo
 
 Este é um projeto que demonstra a integração do ChatGPT Turbo da OpenAI em um aplicativo Streamlit para criar um chatbot interativo. 
-O chatbot é capaz de receber perguntas do usuário e responder usando a API da OpenAI.
+O chatbot é capaz de receber perguntas do usuário e responder usando a API da OpenAI. Não foi feito nenhum ajuste fino, ficando essa parte
+para um próximo projeto.
 
 ## Pré-requisitos
 
